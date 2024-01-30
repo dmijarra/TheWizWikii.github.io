@@ -13,7 +13,7 @@ Lo unico que hay que hacer es ir a esta dirección desde el navegador de interne
 
 ---
 
-### PS4 Jailbreak + Goldhen v2.2.2 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
+### PS4 Jailbreak + Goldhen v3.2.2 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
 
 Lo unico que hay que hacer es ir a esta dirección desde el navegador de internet de la cosnola.
 
@@ -69,12 +69,12 @@ Esto habilita que puedas emparejar / conectar dispositivos por Bluetooth y USB c
 - **#Leeful** (cache host files I used (PS4))
 - **#Al-Azif** (DNS)
 - **#PS3XploitTeam** (esc0rtd3w - Habib - bguerville)
-- **#lmn7** (PS3 Exploits Offline)
-- **#Joonie** (HFW 4.87.1 and contributions)
+- **#lmn7** (PS3 Exploits Offline and scripts)
+- **#Joonie** (HFW 4.90 and contributions)
 - **#zecoxao** (HFW 4.88.1 and contributions)
 - **#Coro** (Bluetooth/USB Game Audio updates)
-- **#Litlebalup** (HFW 4.89)
-- **#Luan Teles** (Unofficial HEN packages)
+- **#Litlebalup** (HFW 4.89 and Dualboot 4.90)
+- **#Aldo** (Legend and long contribution in PS3 Scene)
 - **#PSX-PLACE** (long contribution in PS3 Scene)
 - **#y a toda la comunidad de PS3 y PS4**
 
